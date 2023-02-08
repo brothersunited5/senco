@@ -1,0 +1,63 @@
+@media (min-width: 1260px) {
+
+}
+/* md */
+@media(max-width: 1199px) {
+	
+
+}
+
+@media (max-width: 991px) {
+	
+	
+	
+}
+
+
+/* XS Portrait */
+@media screen and (max-width: 639.98px) {
+	
+
+
+}
+@media (max-width: 479.98px) {
+
+    
+}
+@media (max-width: 410px) {
+
+
+}
+
+@media (max-width: 375px){
+
+    .imglist .place__card {
+        position: relative;
+        width: 200px;
+        height: 400px;
+        margin: 5px;
+        display: block;
+    }
+    section.box h2 {
+        
+        font-size: 1.5em;
+     
+    }
+    section.res__gallery h2 {
+    
+        font-size: 1.5em;
+      
+    }
+    .product .itembox {
+        position: relative;
+        width: 200px;
+        height: 400px;
+        margin: 5px;
+        display: block;
+    }
+    
+}
+
+@media (max-width: 320px){
+	
+	}
